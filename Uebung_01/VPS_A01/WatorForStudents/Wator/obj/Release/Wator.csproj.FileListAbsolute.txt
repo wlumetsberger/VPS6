@@ -1,0 +1,5 @@
+C:\Public\VPS6\UE1\VPS_A01\WatorForStudents\Wator\bin\Release\Wator.exe
+C:\Public\VPS6\UE1\VPS_A01\WatorForStudents\Wator\bin\Release\Wator.pdb
+C:\Public\VPS6\UE1\VPS_A01\WatorForStudents\Wator\obj\Release\Wator.csprojResolveAssemblyReference.cache
+C:\Public\VPS6\UE1\VPS_A01\WatorForStudents\Wator\obj\Release\Wator.exe
+C:\Public\VPS6\UE1\VPS_A01\WatorForStudents\Wator\obj\Release\Wator.pdb
