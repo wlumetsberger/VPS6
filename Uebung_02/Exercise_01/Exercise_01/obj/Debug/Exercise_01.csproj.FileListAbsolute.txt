@@ -1,0 +1,7 @@
+C:\Public\VPS6\Lesson_02\Exercise_01\Exercise_01\bin\Debug\Exercise_01.exe.config
+C:\Public\VPS6\UE2\Exercise_01\Exercise_01\bin\Debug\Exercise_01.exe.config
+C:\Public\VPS6\UE2\Exercise_01\Exercise_01\bin\Debug\Exercise_01.exe
+C:\Public\VPS6\UE2\Exercise_01\Exercise_01\bin\Debug\Exercise_01.pdb
+C:\Public\VPS6\UE2\Exercise_01\Exercise_01\obj\Debug\Exercise_01.csprojResolveAssemblyReference.cache
+C:\Public\VPS6\UE2\Exercise_01\Exercise_01\obj\Debug\Exercise_01.exe
+C:\Public\VPS6\UE2\Exercise_01\Exercise_01\obj\Debug\Exercise_01.pdb

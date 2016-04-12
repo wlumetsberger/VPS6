@@ -1,0 +1,6 @@
+C:\Public\VPS6\UE2\Exercise2\Exercise2\bin\Debug\Exercise2.exe.config
+C:\Public\VPS6\UE2\Exercise2\Exercise2\bin\Debug\Exercise2.exe
+C:\Public\VPS6\UE2\Exercise2\Exercise2\bin\Debug\Exercise2.pdb
+C:\Public\VPS6\UE2\Exercise2\Exercise2\obj\Debug\Exercise2.exe
+C:\Public\VPS6\UE2\Exercise2\Exercise2\obj\Debug\Exercise2.pdb
+C:\Public\VPS6\UE2\Exercise2\Exercise2\obj\Debug\Exercise2.csprojResolveAssemblyReference.cache

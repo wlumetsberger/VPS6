@@ -1,0 +1,6 @@
+C:\Public\VPS6\UE2\ToiletSimulationForStudents\bin\Debug\ToiletSimulation.exe.config
+C:\Public\VPS6\UE2\ToiletSimulationForStudents\bin\Debug\ToiletSimulation.exe
+C:\Public\VPS6\UE2\ToiletSimulationForStudents\bin\Debug\ToiletSimulation.pdb
+C:\Public\VPS6\UE2\ToiletSimulationForStudents\obj\Debug\ToiletSimulation.csprojResolveAssemblyReference.cache
+C:\Public\VPS6\UE2\ToiletSimulationForStudents\obj\Debug\ToiletSimulation.exe
+C:\Public\VPS6\UE2\ToiletSimulationForStudents\obj\Debug\ToiletSimulation.pdb
